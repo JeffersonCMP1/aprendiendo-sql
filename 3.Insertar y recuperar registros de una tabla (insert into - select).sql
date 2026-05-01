@@ -15,3 +15,5 @@ select*from usuarios;
 insert into usuarios(nombre, clave)values('veronica','123456');
 
 select*from usuarios;
+
+--holaa
